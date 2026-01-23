@@ -1,3 +1,3 @@
 # file-management-project
 
-Projeto de Gerenciamento de Arquivos via Terminal
+Projeto de Gerenciamento de Arquivos(Node.js) via Terminal
